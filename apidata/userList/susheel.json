@@ -1,0 +1,23 @@
+{
+    "id": "1",
+    "username": "Susheel",
+    "full_name": "Susheel",
+    "profile_picture": "susheelg.jpg",
+    "bio": "This is my bio",
+    "website": "http://whoissusheel.netlify.app",
+    "is_business": false,
+    "salary":0.0,
+    "hobbies":["abcd","edg"],
+    "education":{
+        "primary":{
+            "school":"University of Pune",
+            "year": "2010",
+            "type": "High School"
+        },
+        "secondary":{
+            "school":"University of Pune",
+            "year": "2010",
+            "type": "High School"
+        }
+    }
+}
